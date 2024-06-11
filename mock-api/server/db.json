@@ -1,0 +1,44 @@
+{
+  "students": [
+    {
+      "name": "hùng",
+      "age": 24,
+      "email": "hung@example.com",
+      "status": true,
+      "phone": "1234567890",
+      "address": "HD",
+      "created": "12/5/2024",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "name": "nam",
+      "age": 22,
+      "email": "nam@example.com",
+      "status": true,
+      "phone": "1234567890",
+      "address": "HD",
+      "created": "12/5/2024"
+    },
+    {
+      "id": 4,
+      "name": "mai",
+      "age": 23,
+      "email": "mai@example.com",
+      "status": true,
+      "phone": "1234567890",
+      "address": "HD",
+      "created": "12/5/2024"
+    },
+    {
+      "id": 5,
+      "name": "hùng",
+      "age": 24,
+      "email": "hung@example.com",
+      "status": true,
+      "phone": "1234567890",
+      "address": "HD",
+      "created": "12/5/2024"
+    }
+  ]
+}
